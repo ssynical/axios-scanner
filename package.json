@@ -1,0 +1,8 @@
+{
+  "name": "axios-scan",
+  "version": "0.1.0",
+  "description": "scan for axios supply chain attack IOCs",
+  "license": "MIT",
+  "bin": "index.js",
+  "type": "module"
+}
