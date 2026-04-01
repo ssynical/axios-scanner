@@ -6,11 +6,7 @@ checks lockfiles, node_modules, filesystem artifacts, and C2 connectivity.
 published in tandem with [my blog post](https://blog.jiface.com/axios-supply-chain-attack)
 
 ## usage
-```bash
-npx axios-scan /path/to/project
-```
 
-or clone and run directly:
 ```bash
 node index.js /path/to/project
 ```
